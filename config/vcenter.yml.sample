@@ -1,0 +1,8 @@
+connection:
+  host: vsphere-host-name
+  user: vsphere-administrator
+  pwd: 
+  datacenter: vsphere-datacenter
+backup:
+  datastore: vsphere-datastore
+  folder: 
