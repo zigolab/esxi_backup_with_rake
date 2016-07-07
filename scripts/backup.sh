@@ -1,5 +1,0 @@
-#!/bin/sh
-
-export BACKUP_HOME=THIS_PROJECT_ROOT_FOLDER
-cd $BACKUP_HOME
-rake "vcenter:backup_vm[FOLDER/VM_NAME,SNAPSHOT_NAME]"
